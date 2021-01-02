@@ -5,7 +5,9 @@ import os
 import pyttsx3
 
 print('Manual of this program :')
+
 pyttsx3.speak('Manual of this program')
+
 print('you can talk with this program and ask some questions which is given in manual')
 print('hi, hello, how are you, your creater name, why created you, what kind of operations you can do \n')
 print('you can open or run these program')
